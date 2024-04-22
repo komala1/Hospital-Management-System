@@ -8,7 +8,7 @@ The system offers comprehensive features such as patient management, appointment
 
 ## Technologies Used
 
-The application is built using Salesforce CRM, utilizing its powerful CRM functionalities. Development is done primarily using Apex, Salesforce's proprietary programming language for backend development, along with Visualforce for creating user interfaces within the Salesforce environment. Lightning Components are employed for custom UI components to enhance user experience, and Salesforce Object Query Language (SOQL) is used for querying Salesforce objects and records.
+The application is built using Salesforce CRM, utilizing its powerful CRM functionalities. Development is done primarily using Apex, Salesforce's proprietary programming language for backend development, along with Visualforce for creating user interfaces within the Salesforce environment. Lightning Components are employed for custom UI components to enhance user experience.
 
 ## Installation
 
